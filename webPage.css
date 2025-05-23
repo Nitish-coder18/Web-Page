@@ -33,21 +33,25 @@ body {
     font-family: 'Lobster', cursive;
     margin: 60px 0 75px 0;
     font-size: 2.5rem;
+    color: black;
 }
 
 .p2 {
     margin-bottom: 15px;
     font-size: 1rem;
+    color: black;
 }
 
 .p3 {
     font-size: 3rem;
     margin-bottom: 5px;
+    color: black;
 }
 
 .p4 {
     font-size: 2.2rem;
     margin-bottom: 10px;
+    color: black;
 }
 
 /* Center Section */
@@ -55,12 +59,14 @@ body {
     text-align: center;
     font-size: 1.2rem;
     margin-top: 20px;
+    color: black;
 }
 
 #btnn {
     display: flex;
     justify-content: center;
     margin-top: 20px;
+    color: black;
 }
 
 #button {
@@ -85,6 +91,7 @@ body {
     text-align: center;
     margin: 20px 0;
     font-size: 1.5rem;
+    color: black;
 }
 
 #fonts i {
